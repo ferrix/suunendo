@@ -1,0 +1,4 @@
+lxml==2.3beta1
+python-dateutil==1.5
+pytz==2010o
+xlrd==0.9.0
